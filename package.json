@@ -37,11 +37,11 @@
     "troika-3d-text": "^0.16",
     "webpack-dev-server": "^3.10.1",
     "webxr-polyfill": "^2.0.1",
-    "webpack": "^4.41.0"
-  },
-  "devDependencies": {
+    "webpack": "^4.41.0",    
     "@babel/core": "^7.6.4",
     "babel-loader": "^8.0.6",
     "webpack-cli": "^3.3.9"
+  },
+  "devDependencies": {
   }
 }
